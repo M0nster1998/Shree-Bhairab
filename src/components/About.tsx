@@ -98,7 +98,7 @@ const About = () => {
               className="group relative overflow-hidden rounded-lg"
             >
               <img
-                src={Band Logo.png}
+                src={member.image}
                 alt={member.name}
                 className="w-full h-[250px] object-cover transition-transform duration-300 group-hover:scale-110"
               />
