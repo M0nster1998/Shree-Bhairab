@@ -137,10 +137,10 @@ const Footer = () => {
 
         <div className="border-t border-purple-900/30 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © {new Date().getFullYear()} Harmonic Fusion. All rights reserved.
+            © {new Date().getFullYear()} Shree Bhairab. All rights reserved.
           </p>
           <p className="text-gray-400 text-sm mt-2 md:mt-0">
-            Designed by <span className="text-purple-500">John Doe</span>
+            Designed by <span className="text-purple-500">Pritam Maharjan</span>
           </p>
         </div>
       </div>
