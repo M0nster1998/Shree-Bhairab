@@ -42,8 +42,7 @@ const Contact = () => {
           </div>
 
           <div className="bg-purple-900/20 rounded-lg overflow-hidden h-[400px]">
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1838560983296!2d-73.9910086!3d40.7505045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9aeb1c6b5%3A0x35b1cfbc89a6097f!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1647043435129!5m2!1sen!2sus"
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d262.56174720794587!2d85.30436688561362!3d27.69888771582801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb19f953679daf%3A0xa546d7de40ff003c!2sTanani!5e0!3m2!1sen!2sus!4v1732947994605!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
               width="100%"
               height="100%"
               style={{ border: 0 }}
