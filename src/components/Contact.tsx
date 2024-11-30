@@ -19,7 +19,7 @@ const Contact = () => {
                 <MapPin className="w-6 h-6 text-purple-400 flex-shrink-0" />
                 <div>
                   <h3 className="font-semibold mb-1">Address</h3>
-                  <p className="text-gray-300">123 Music Avenue, New York, NY 10001</p>
+                  <p className="text-gray-300">Brahmatole, Dharmachakra Mahabihar, Ta: Nani-12, Kathmadu, Nepal</p>
                 </div>
               </div>
               
@@ -27,7 +27,7 @@ const Contact = () => {
                 <Phone className="w-6 h-6 text-purple-400 flex-shrink-0" />
                 <div>
                   <h3 className="font-semibold mb-1">Phone</h3>
-                  <p className="text-gray-300">+1 (555) 123-4567</p>
+                  <p className="text-gray-300">+977-986368662</p>
                 </div>
               </div>
               
@@ -35,7 +35,7 @@ const Contact = () => {
                 <Mail className="w-6 h-6 text-purple-400 flex-shrink-0" />
                 <div>
                   <h3 className="font-semibold mb-1">Email</h3>
-                  <p className="text-gray-300">contact@harmonicfusion.com</p>
+                  <p className="text-gray-300">shreebhairabsmail@gmail.com</p>
                 </div>
               </div>
             </div>
