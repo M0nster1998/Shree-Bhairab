@@ -5,8 +5,8 @@ import { Play, Youtube as YoutubeIcon } from 'lucide-react';
 const Media = () => {
   const videos = [
     { id: 'uOVzqqKgd9g', title: 'Puwacha Nipucha × Asaraya Sina Jya' },
-    { id: 'dQw4w9WgXcQ', title: 'Behind the Scenes' },
-    { id: 'dQw4w9WgXcQ', title: 'Music Video - Ethereal Dreams' }
+    { id: 'B0oMn8t4xDE', title: 'Salugu Gacha । Sirsaya Hegu । Aila Luwaya । Mashup Song । Shardul Jung Gulma (Gurju Paltan)' },
+    { id: 'HNZK08QlH_0', title: 'Wo Chu Galli Tho Chu Galli Cover' }
   ];
 
   return (
