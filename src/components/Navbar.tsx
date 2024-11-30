@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Menu, X, Music } from 'lucide-react';
+import BandLogo from '../src/components/Images/Band Logo.png'; // Adjust the path accordingly 
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
