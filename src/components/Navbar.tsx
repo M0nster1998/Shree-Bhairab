@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Menu, X, Music } from 'lucide-react';
-import BandLogo from './Images/Ban-Logo.png'; // Adjust the path accordingly 
+import BandLogo from './Images/Band-Logo.png'; 
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -11,7 +11,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <img 
-              src={Band Logo} 
+              src={BandLogo} 
               alt="Shree Bhairab Band Logo" 
               width="50"
               Classname="rounded"
