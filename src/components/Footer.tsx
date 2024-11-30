@@ -49,7 +49,7 @@ const Footer = () => {
               <Facebook className="w-6 h-6" />
             </a>
             <a
-              href="#"
+              href="https://www.youtube.com/@shreebhairab"
               className="text-gray-400 hover:text-purple-500 transition-colors"
             >
               <Youtube className="w-6 h-6" />
@@ -121,9 +121,9 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2">
-              <li className="text-gray-400">contact@harmonicfusion.com</li>
-              <li className="text-gray-400">+1 (555) 123-4567</li>
-              <li className="text-gray-400">New York, NY</li>
+              <li className="text-gray-400">shreebhairabsmail@gmail.com</li>
+              <li className="text-gray-400">+977-9863689662</li>
+              <li className="text-gray-400">Ta: Nani-12, Kathmandu, Nepal</li>
             </ul>
           </div>
           <div>
