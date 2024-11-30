@@ -4,7 +4,7 @@ import { Play, Youtube as YoutubeIcon } from 'lucide-react';
 
 const Media = () => {
   const videos = [
-    { id: 'dQw4w9WgXcQ', title: 'Live at Carnegie Hall' },
+    { id: 'uOVzqqKgd9g', title: 'Puwacha Nipucha × Asaraya Sina Jya' },
     { id: 'dQw4w9WgXcQ', title: 'Behind the Scenes' },
     { id: 'dQw4w9WgXcQ', title: 'Music Video - Ethereal Dreams' }
   ];
@@ -48,7 +48,7 @@ const Media = () => {
 
         <div className="mt-12 text-center">
           <a
-            href="https://www.youtube.com/@example"
+            href="https://www.youtube.com/@shreebhairab"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-full transition-colors"
