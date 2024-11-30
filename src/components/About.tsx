@@ -63,7 +63,7 @@ const About = () => {
       className="py-20 bg-gradient-to-b from-black to-purple-900"
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center mb-16">
+        <div className="text-justify mb-16">
           <h2 className="text-4xl font-bold mb-4">About Us</h2>
           <p className="text-gray-300 max-w-2xl mx-auto">
             Shree Bhairab is a Traditional Musical Band and it is a cultural
@@ -98,7 +98,7 @@ const About = () => {
               className="group relative overflow-hidden rounded-lg"
             >
               <img
-                src={member.image}
+                src={Band Logo.png}
                 alt={member.name}
                 className="w-full h-[250px] object-cover transition-transform duration-300 group-hover:scale-110"
               />
