@@ -6,7 +6,7 @@ const Gallery = () => {
   const [showAll, setShowAll] = useState(false);
   
   const images = [
-    "https://www.facebook.com/photo.php?fbid=122105632280161177&set=pb.61554835328090.-2207520000&type=3",
+    "https://www.facebook.com/photo.php?fbid=122105632280161177&set=pb-1.2.1&auto=format&fit=crop&w=1000&q=80",
     "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
     "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
     "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
