@@ -34,7 +34,7 @@ const Navbar = () => {
                 About
               </a>
               <a
-                href="#music"
+                href="#meida"
                 className="hover:text-purple-500 px-3 py-2 transition-colors"
               >
                 Music
@@ -82,7 +82,7 @@ const Navbar = () => {
               About
             </a>
             <a
-              href="#music"
+              href="#meida"
               className="block hover:text-purple-500 px-3 py-2 transition-colors"
             >
               Music
