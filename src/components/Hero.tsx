@@ -1,12 +1,13 @@
 import React from 'react';
 import { Play } from 'lucide-react';
+import Group1 from '../assets/Group1.jpg';
 
 const Hero = () => {
   return (
     <section id="home" className="relative h-screen flex items-center justify-center">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1511379938547-c1f69419868d?ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80"
+          src={Group1}
           alt="Band performing"
           className="w-full h-full object-cover"
         />
