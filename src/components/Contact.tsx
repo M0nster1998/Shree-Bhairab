@@ -44,15 +44,11 @@ const Contact = () => {
           </div>
 
           <div className="h-[400px] rounded-lg overflow-hidden">
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.25280949922!2d-74.11976341508278!3d40.70583158964816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY!5e0!3m2!1sen!2sus!4v1679925150151!5m2!1sen!2sus"
-              width="100%"
-              height="100%"
-              style={{ border: 0 }}
-              allowFullScreen
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-            ></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d3532.593693752847!2d85.3000589712423!3d27.698950073256448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x39eb19f953679daf%3A0xa546d7de40ff003c!2sM8X3%2BJW4%20Tanani%2C%20Brahma%20Marg%2C%20Kathmandu%2044600%2C%20Nepal!3m2!1d27.6989526!2d85.3046557!5e0!3m2!1sen!2sus!4v1733804315931!5m2!1sen!2sus" 
+            width="600" height="450" 
+            style="border:0;" allowfullscreen="" loading="lazy" 
+            referrerpolicy="no-referrer-when-downgrade">
+          </iframe>
           </div>
         </div>
       </div>
