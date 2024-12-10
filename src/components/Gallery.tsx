@@ -9,7 +9,7 @@ const Gallery = () => {
 
   const photos = [
     {
-      url: "../assets/Group1.jpg",
+      url: "/assets/Group1.jpg",
       title: "Concert Performance",
       description: "Live at Symphony Hall"
     },
