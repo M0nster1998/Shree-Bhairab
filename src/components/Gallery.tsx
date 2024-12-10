@@ -2,13 +2,14 @@ import React, { useState } from 'react';
 import { PhotoProvider, PhotoView } from 'react-photo-view';
 import 'react-photo-view/dist/react-photo-view.css';
 import { ChevronDown, ChevronUp } from 'lucide-react';
+import Group1 from '../assets/Group1.jpg';
 
 const Gallery = () => {
   const [showAll, setShowAll] = useState(false);
 
   const photos = [
     {
-      url: "/path/to/your/photo1.jpg",
+      url: "../assets/Group1.jpg",
       title: "Concert Performance",
       description: "Live at Symphony Hall"
     },
